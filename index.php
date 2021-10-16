@@ -2,7 +2,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - Landing Page</title>
+  <title>Trig Search - Zimbabwe</title>
   <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Playfair+Display:400italic,700italic' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
@@ -27,7 +27,7 @@
                             <span class="menu-icon__line"></span>
                         </div>
 
-                        <h1 class="heading header__item">D-UI</h1>
+                        <h1 class="heading header__item">Trig Search Zimbabwe</h1>
 
                         <ul class="social-container header__item">
                             <li class="social__icon social__icon--fb">
@@ -42,11 +42,11 @@
                         </ul>
                     </header>
 
-                    <p class="coords">N 49° 16' 35.173"  /  W 0° 42' 11.30"</p>
+                    <p class="coords">19.0154° S, 29.1549° E"</p>
 
                     <div class="ellipses-container">
 
-                        <h2 class="greeting">Hello</h2>
+                        <h2 class="greeting">App Coming Soon</h2>
 
                         <div class="ellipses ellipses__outer--thin">
 
