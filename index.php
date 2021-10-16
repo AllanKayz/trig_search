@@ -34,7 +34,7 @@
                                 <img src="https://image.flaticon.com/icons/svg/1077/1077041.svg" alt="facebook">
                             </li>
                             <li class="social__icon social__icon--dr">
-                                <img src="https://image.flaticon.com/icons/svg/25/25631.svg" alt="dribbble">
+                                <img src="https://image.flaticon.com/icons/svg/25/25633.svg" alt="dribbble">
                             </li>
                             <li class="social__icon social__icon--in">
                                 <img src="https://image.flaticon.com/icons/svg/1077/1077042.svg" alt="instagram">
