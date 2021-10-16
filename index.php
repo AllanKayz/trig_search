@@ -29,17 +29,17 @@
 
                         <h1 class="heading header__item">Trig Search Zimbabwe</h1>
 
-                        <ul class="social-container header__item">
+                        <!--ul class="social-container header__item">
                             <li class="social__icon social__icon--fb">
                                 <img src="https://image.flaticon.com/icons/svg/1077/1077041.svg" alt="facebook">
                             </li>
                             <li class="social__icon social__icon--dr">
-                                <img src="https://image.flaticon.com/icons/svg/25/25633.svg" alt="dribbble">
+                                <img src="https://image.flaticon.com/icons/svg/25/25631.svg" alt="dribbble">
                             </li>
                             <li class="social__icon social__icon--in">
                                 <img src="https://image.flaticon.com/icons/svg/1077/1077042.svg" alt="instagram">
                             </li>
-                        </ul>
+                        </ul-->
                     </header>
 
                     <p class="coords">19.0154° S, 29.1549° E"</p>
